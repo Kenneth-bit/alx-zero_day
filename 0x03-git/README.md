@@ -1,3 +1,3 @@
-# This my third project for ALX workig with Git.
+# This my third project for ALX working with Git.
 
-## So far so good!
+### So far so good!
